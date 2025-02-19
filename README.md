@@ -4,11 +4,10 @@ Welcome to my portfolio repository! This project is currently under construction
 
 [Currently: Bootcamp-Analytics](https://github.com/KonstantinData/Bootcamp-Analytics)
 
-## What’s in the Repo?
+## Project Links:
 
-- **Projects:** A collection of my latest work, including web applications, mobile apps, and other creative projects.
-- **Code Samples:** Examples of my coding style, problem-solving skills, and technical expertise.
-- **Blog/Insights (Coming Soon):** Personal thoughts, project stories, and tips on development and design.
+[SQL Data Warehouse] https://github.com/KonstantinData/SQL-Data-Warehouse.git
+
 
 ## Under Construction
 
