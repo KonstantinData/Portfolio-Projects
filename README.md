@@ -6,7 +6,8 @@ Welcome to my portfolio repository! This project is currently under construction
 
 ## Project Links:
 
-[SQL Data Warehouse] https://github.com/KonstantinData/SQL-Data-Warehouse.git
+[SQL Data Warehouse] https://github.com/KonstantinData/SQL-Data-Warehouse.git<br>
+[Unicorn Company Project] https://github.com/KonstantinData/Unicorn-Company-Project.git
 
 
 ## Under Construction
