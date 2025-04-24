@@ -17,7 +17,7 @@ Welcome to my portfolio repository! This project is currently under construction
 
 ## **Certificate Link** 
 
-[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificatest)<br>
+[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificates)<br>
 
 ## **Work in Progress**  
 
