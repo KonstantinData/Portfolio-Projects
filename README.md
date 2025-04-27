@@ -1,8 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio repository! This project is currently under construction, and I'm excited to share my work with you soon.
-
-[Currently: Bootcamp-Analytics](https://github.com/KonstantinData/Bootcamp-Analytics)
+Welcome to my portfolio repository! 
 
 ## Project Links:
 
