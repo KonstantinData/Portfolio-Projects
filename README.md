@@ -18,8 +18,16 @@ Welcome to my portfolio repository!
 ## **Certificate Link** 
 
 [Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificates)<br>
+<br>
+## Courses in Progress (Status: April 27, 2025)
+
+- **Supervised Machine Learning: Regression and Classification** – Completion: **63%**
+- **Neural Networks and Deep Learning** (DeepLearning.AI) – Completion: **20%**
+
+<br>
 
 ## **Work in Progress**  
 
 This repository is actively being updated. I'm currently structuring and refining the content <br> 
 to ensure clarity and usefulness. Stay tuned for upcoming improvements—your patience is greatly appreciated! 🚀
+<br>
