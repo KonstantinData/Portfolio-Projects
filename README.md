@@ -14,11 +14,14 @@ Welcome to my portfolio repository!
 <br>
 [Mastery-Project-Masterschool](https://github.com/KonstantinData/Mastery-Project-Masterschool.git)<br>
 <br>
-
+[parts2sales – Real Business Case](https://github.com/KonstantinData/parts2sales-A2A-LLM-HUB.git)<br>
+<br>
 ## **Certificate Link** 
 
 [Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificates)<br>
 <br>
+
+
 ## Courses in Progress (Status: April 27, 2025)
 
 - **Supervised Machine Learning: Regression and Classification** – Completion: **63%**
