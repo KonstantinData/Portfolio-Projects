@@ -14,7 +14,7 @@ Welcome to my portfolio repository!
 <br>
 [Mastery-Project-Masterschool](https://github.com/KonstantinData/Mastery-Project-Masterschool.git)<br>
 <br>
-[parts2sales-A2A-LLM-HUB – Real Business Case](https://github.com/KonstantinData/parts2sales-A2A-LLM-HUB.git)<br>
+[parts2sales-A2A-research-workflow – Real Business Case](https://github.com/KonstantinData/A2A-research-workflow.git)<br>
 <br>
 ## **Certificate Link** 
 
