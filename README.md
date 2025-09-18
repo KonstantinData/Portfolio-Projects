@@ -22,10 +22,12 @@ Welcome to my portfolio repository!
 <br>
 
 
-## Courses in Progress (Status: April 27, 2025)
+## Courses in Progress (Status: September 19, 2025)
 
-- **Supervised Machine Learning: Regression and Classification** – Completion: **63%**
-- **Neural Networks and Deep Learning** (DeepLearning.AI) – Completion: **20%**
+- **Supervised Machine Learning: Regression and Classification** – Completion: **85%**
+- **Neural Networks and Deep Learning** (DeepLearning.AI) – Completion: **43%**
+- **GOOGLE - Maximize Productivity With AI Tools** (COURSERA) - Completion: **20%**
+- **GOOGLE - Maximize Productivity With AI Tools** (COURSERA) - Completion: **20%**
 
 <br>
 
