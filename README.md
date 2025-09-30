@@ -14,11 +14,11 @@ Welcome to my portfolio repository!
 <br>
 [Mastery-Project-Masterschool](https://github.com/KonstantinData/Mastery-Project-Masterschool.git)<br>
 <br>
-[parts2sales-A2A-research-workflow – Real Business Case](https://github.com/KonstantinData/A2A-research-workflow.git)<br>
+[Lead-Market-Insights – Real Business Case](https://github.com/KonstantinData/Lead-Market-Insights)<br>
 <br>
 ## **Certificate Link** 
 
-[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificates)<br>
+[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificate)<br>
 <br>
 
 
