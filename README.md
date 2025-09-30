@@ -18,7 +18,7 @@ Welcome to my portfolio repository!
 <br>
 ## **Certificate Link** 
 
-[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificate)<br>
+[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificates)<br>
 <br>
 
 
