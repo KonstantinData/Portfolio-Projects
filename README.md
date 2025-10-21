@@ -16,23 +16,6 @@ Welcome to my portfolio repository!
 <br>
 [Lead-Market-Insights – Real Business Case](https://github.com/KonstantinData/Lead-Market-Insights)<br>
 <br>
-## **Certificate Link** 
+## **Continious-Learning & Certificates** 
 
-[Certificates](https://github.com/KonstantinData/Bootcamp-Analytics/tree/main/Certificates)<br>
-<br>
-
-
-## Courses in Progress (Status: September 19, 2025)
-
-- **Supervised Machine Learning: Regression and Classification** – Completion: **85%**
-- **Neural Networks and Deep Learning** (DeepLearning.AI) – Completion: **43%**
-- **GOOGLE - Maximize Productivity With AI Tools** (COURSERA) - Completion: **20%**
-- **GOOGLE - Maximize Productivity With AI Tools** (COURSERA) - Completion: **20%**
-
-<br>
-
-## **Work in Progress**  
-
-This repository is actively being updated. I'm currently structuring and refining the content <br> 
-to ensure clarity and usefulness. Stay tuned for upcoming improvements—your patience is greatly appreciated! 🚀
-<br>
+[Learning-Hub & Certifications](https://github.com/KonstantinData/learning-hub-and-certifications.git)<br>
