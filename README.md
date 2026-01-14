@@ -4,7 +4,7 @@ Welcome to my portfolio repository!
 
 ## Project Links:
 
-[SQL Data Warehouse](https://github.com/KonstantinData/SQL-Data-Warehouse.git)<br>
+[Data Warehouse](https://github.com/KonstantinData/data-warehouse.git)<br>
 <br>
 [Unicorn Company Project](https://github.com/KonstantinData/Unicorn-Company-Project.git) & [Tableau Unicorn Dashboard](https://public.tableau.com/app/profile/condata/viz/Unicorn_Company_Tableau_draft/SalesDashboard)<br>
 <br>
