@@ -3,8 +3,7 @@
 Welcome to my portfolio repository! 
 
 ## Project Links:
-[Agentic-ELT-Data Warehouse](https://github.com/KonstantinData/agentic-elt-data-warehouse.git)<br>
-<br>
+
 [Compensation-Reperformance-Analytics](https://github.com/KonstantinData/compensation-reperformance-analytics.git)<br>
 <br>
 [Agentic-ELT-Data Warehouse](https://github.com/KonstantinData/agentic-elt-data-warehouse.git)<br>
