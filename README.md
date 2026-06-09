@@ -2,6 +2,9 @@
 
 Welcome to my portfolio repository! 
 
+## Main Project
+[skill-centric-agent-system](https://github.com/KonstantinData/skill-centric-agent-system)<br>
+
 ## Project Links:
 
 [Compensation-Reperformance-Analytics](https://github.com/KonstantinData/compensation-reperformance-analytics.git)<br>
