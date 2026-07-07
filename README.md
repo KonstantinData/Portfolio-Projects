@@ -24,6 +24,6 @@ Welcome to my portfolio repository!
 <br>
 [Vehicle-Classification-Project](https://github.com/KonstantinData/Vehicle-Classification-Project)<br>
 <br>
-## **Continious-Learning & Certificates** 
+## **Certificates** 
 
 [Learning-Hub & Certifications](https://github.com/KonstantinData/learning-hub-and-certifications.git)<br>
