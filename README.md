@@ -5,6 +5,9 @@ Welcome to my portfolio repository!
 ## Current Projects
 **[Skill-Centric Agent System](https://github.com/KonstantinData/skill-centric-agent-system)** <br> A self-composing single-agent runtime with sealed profiles, policy enforcement, and Cloudflare + Hetzner infrastructure [Architecture-Wiki](https://carbonated-platinum-107.notion.site/Skill-Centric-Agent-System-Wiki-3671c1ac5ec08129bf99db2d78ee8c77)
 
+**[Neural-Brain](https://github.com/KonstantinData/neural-brain)** <br> Neural Brain is a product- and domain-neutral platform for building a biologically inspired agent system. It is intended to grow from a strictly controlled serial cognitive core into a system that can perceive, focus attention, maintain working memory, pursue goals, plan, execute tools, verify outcomes independently, retain long-term memory, learn under explicit controls, reflect, and operate with bounded autonomy. [Architecture-Wiki](https://carbonated-platinum-107.notion.site/Neural-Brain-39d1c1ac5ec080218b3fc894bd8bbd1e?source=copy_link)
+
+
 **[Ai-Live-Voice-Agents](https://github.com/KonstantinData/KI-LIVE-VOICE-AGENTS)** A multi-tenant system for AI-powered live voice and chat agents that supports kitchen and furniture stores in handling customer inquiries—from the initial contact through to a seamless handoff to the team.
 
 
